@@ -1,6 +1,6 @@
 const _canvasProps = { width: 687, height: 579 };
 const _options = {
-  spacing: 1,
+  spacing: 3,
   numCircles: 1000,
   minSize: parseInt(window.location.search.split('=')[1]),
   maxSize: parseInt(window.location.search.split('=')[1]),
